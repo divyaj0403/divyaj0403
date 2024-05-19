@@ -72,7 +72,7 @@
 ###
 
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/divyaj0403/divyaj0403/output/snake.svg" alt="Snake animation" />
+
 
 ###
